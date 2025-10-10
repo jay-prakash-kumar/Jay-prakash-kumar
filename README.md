@@ -47,13 +47,9 @@ const jay = {
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="60" alt="graphql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=reactjs" height="60" alt="rust logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="60" alt="nestjs logo"  />
   <img width="12" />
