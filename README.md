@@ -75,7 +75,6 @@ const jay = {
 </div>
 
 ###
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=jay-prakash-kumar&theme=dracula&no-bg=false&no-frame=false&margin-w=15)](https://github.com/jay-prakash-kumar/github-profile-trophy)
+https://github-profile-trophy.vercel.app/?username=jay-prakash-kumar&theme=dracula
 
 ###
