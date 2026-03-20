@@ -16,7 +16,7 @@
 ```javascript
 const jay = {
     pronouns: "He" | "Him",
-    code: ["HTML", "CSS", "JavaScript", "C++", "Java", "Python"],
+    code: ["HTML", "CSS", "JavaScript", "CPP", "Java", "Python"],
     askMeAbout: ["web development", "Java", "MERN stack", "open source"],
     technologies: {
         frontEnd: {
